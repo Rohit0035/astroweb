@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "image": "/assets/img/testimonial/testi-1.jpg",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+    "customerName": "Grace Alvarado",
+    "title": "customer"
+  },
+  {
+    "id": "2",
+    "image": "/assets/img/testimonial/testi-2.jpg",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "customerName": "John Doe",
+    "title": "customer"
+  },
+  {
+    "id": "3",
+    "image": "/assets/img/testimonial/testi-2.jpg",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "customerName": "John Doe",
+    "title": "customer"
+  },
+  {
+    "id": "4",
+    "image": "/assets/img/testimonial/testi-2.jpg",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "customerName": "John Doe",
+    "title": "customer"
+  },
+  {
+    "id": "5",
+    "image": "/assets/img/testimonial/testi-2.jpg",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "customerName": "John Doe",
+    "title": "customer"
+  },
+  {
+    "id": "6",
+    "image": "/assets/img/testimonial/testi-2.jpg",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "customerName": "John Doe",
+    "title": "customer"
+  }
+]
