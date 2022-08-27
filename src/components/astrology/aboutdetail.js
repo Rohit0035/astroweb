@@ -63,7 +63,7 @@ class AboutDetail extends React.Component {
                         </Col>
                         <Col lg="6">
                             <div className="abo-2">
-                                  <img src={aboutone} alt="" className="about-img"></img>
+                                  <img src={abouttwo} alt="" className="about-img"></img>
                             </div>
                         </Col>
                     </Row>
